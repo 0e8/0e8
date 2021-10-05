@@ -12,7 +12,7 @@
 <p align="center">
   <strong><a href="https://shadowwqz.github.io/">Official Website</a></strong> |
   <strong><a href="https://twitter.com/shadowwqz">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/HzwJsmPfZY">Discord</a></strong> |
+  <strong><a href="https://discord.gg/HzwJsmPfZY">Discord</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
