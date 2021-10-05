@@ -15,4 +15,4 @@
   <strong><a href="https://discord.gg/HzwJsmPfZY">Discord</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently watching anime and playing games... ;3</p>
