@@ -1,1 +1,1 @@
-[![.aurora#4048](https://imgur.com/gallery/Vys8PMP)]
+[![.aurora#4048](https://i.imgur.com/UGTzVF1.png)]
