@@ -16,3 +16,5 @@
 </p>
 
 <p align="center">❤ I'm currently watching anime and playing games... ;3</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=auroraauwu&label=Profile%20views&color=0e75b6&style=flat" alt="auroraauwu" /> </p>
