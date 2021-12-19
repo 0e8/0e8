@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://auroraauwu.github.io/"><img src="aurora_banner.png" alt=".aurora Banner"></a>
+  <a href="https://0e8.github.io/"><img src="aurora_banner.png" alt="0e8 Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://0e8.github.io/">.aurora</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ UwU</h1>
 
 <p align="center">
-  <a href="https://github.com/auroraauwu"><img src="https://github-readme-stats.vercel.app/api?username=0e8&hide_border=true&show_icons=true" alt="Shadowwqz's github stats"></a>
+  <a href="https://github.com/0e8"><img src="https://github-readme-stats.vercel.app/api?username=0e8&hide_border=true&show_icons=true" alt="0e8's github stats"></a>
 </p>
 
 <p align="center">
