@@ -2,6 +2,11 @@
   <b><i>✨ Welcome to my profile ✨</i></b>
 </h1>
 
+<h3>I'm interested in:</h3>
+<ul>
+  <li>a</li>
+</ul>
+
 <p align="center">
   <a href="https://github.com/0e8"><img src="https://github-readme-stats.vercel.app/api?username=0e8&hide_border=true&show_icons=true" alt="0e8's github stats"></a>
 </p>
