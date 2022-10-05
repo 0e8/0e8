@@ -1,10 +1,14 @@
 <h1 align="center">
   <b><i>✨ Welcome to my profile ✨</i></b>
 </h1>
-<h2>ayy</h2>
-<h3>I'm interested in:</h3>
+
+<h3>😎 I'm interested in:</h3>
 <ul>
-  <li>a</li>
+  <li><code>Coding 🖥️</code></li>
+  <li><code>Hacking 👨‍💻</code></li>
+  <li><code>Psychology 🤔</code></li>
+  <li><code>Video Games 🎮</code></li>
+  <li><code>Sleeping 😴</code></li>
 </ul>
 
 <p align="center">
@@ -12,10 +16,10 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://0e8.github.io/">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/shadowwqz">Twitter</a></strong> |
+  <code><strong><a href="https://www.op.gg/summoners/eune/%CB%86%20aurora%20%CB%86">op.gg</a></strong></code> |
+  <code><strong><a href="https://open.spotify.com/user/vbsin99bxy8y8dfieb10nj4jb">spotify</a></strong></code>
 </p>
 
-<p align="center">❤ I'm currently watching anime and playing games... ;3</p>
+<p align="center">❤ Feel free to contact me via Discord... <code>.aurora#4048</code></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0e8&label=Profile%20views&color=0e75b6&style=flat" alt="auroraauwu" /> </p>
