@@ -1,6 +1,6 @@
-<p align="center">
-  <h1><b><i>✨ Welcome to my profile ✨</i></b></h1>
-</p>
+<h1 align="center">
+  <b><i>✨ Welcome to my profile ✨</i></b>
+</h1>
 
 <h1 align="center">Hi, I'm <a href="https://0e8.github.io/">.aurora</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile</h1>
