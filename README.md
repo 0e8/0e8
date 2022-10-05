@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://0e8.github.io/"><img src="aurora_banner.png" alt="0e8 Banner"></a>
+  <h1><b><i>✨ Welcome to my profile ✨</i></b></h1>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://0e8.github.io/">.aurora</a>!</h1>
