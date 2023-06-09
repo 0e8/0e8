@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <code><strong><a href="https://www.op.gg/summoners/eune/%CB%86%20aurora%20%CB%86">op.gg</a></strong></code> |
+  <code><strong><a href="https://www.op.gg/summoners/eune/real%20voyeur">op.gg</a></strong></code> |
   <code><strong><a href="https://open.spotify.com/user/vbsin99bxy8y8dfieb10nj4jb">spotify</a></strong></code>
 </p>
 
