@@ -1,9 +1,4 @@
 <p align="center">
-  <a href="https://github.com/0e8"><img src="https://github-readme-stats.vercel.app/api?username=0e8&hide_border=true&show_icons=true" alt="0e8's github stats"></a>
-</p>
-
-<p align="center">
-  <code><strong><a href="https://www.op.gg/summoners/eune/Kathawina">op.gg</a></strong></code> |
   <code><strong><a href="https://open.spotify.com/user/vbsin99bxy8y8dfieb10nj4jb">spotify</a></strong></code>
 </p>
 
